@@ -301,7 +301,7 @@ DEPENDENCIES
   rspec-rails (~> 6.0)
   rubocop (~> 1.39)
   rubyzip (~> 2.3)
-  simplecov (~> 0.21)
+  simplecov (~> 0.22)
   sprockets-rails
   sqlite3 (~> 1.5)
   stackprof (~> 0.2)
